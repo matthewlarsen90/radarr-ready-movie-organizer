@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Directories where your movies are stored
-MOVIE_DIRS=("/data/media/movies" "/data/media2/movies2")
+MOVIE_DIRS=("D:\Movies")
 
 # Function to display a progress bar
 progress_bar() {
